@@ -29,13 +29,13 @@ options(install.packages.check.source = "no")
 install.packages(pkgs=all_pkgs, lib=course_lib_path, repos = NULL, type = "binary")
 
 #Link the libraries
-library("tidyverse", lib.loc = installed_pkg_path)
-library("table1", lib.loc = installed_pkg_path)
-library("stringr", lib.loc = installed_pkg_path)
-library("MASS", lib.loc = installed_pkg_path)
-library("ggpubr", lib.loc = installed_pkg_path)
-library("foreach", lib.loc = installed_pkg_path)
-library("doParallel", lib.loc = installed_pkg_path)
+library("tidyverse", lib.loc = course_lib_path)
+library("table1", lib.loc = course_lib_path)
+library("stringr", lib.loc = course_lib_path)
+library("MASS", lib.loc = course_lib_path)
+library("ggpubr", lib.loc = course_lib_path)
+library("foreach", lib.loc = course_lib_path)
+library("doParallel", lib.loc = course_lib_path)
 
-#Tests
+
 
