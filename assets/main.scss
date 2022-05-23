@@ -2,9 +2,9 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "minima";
+@import "minimal";
 
-.site-title::before {
+.site.logo{
 	content: url("/assets/A_pharmetheus.png");
 	display: inline-block;
 	position: relative;
