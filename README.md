@@ -2,6 +2,9 @@
 
 ## Welcome!
 
+Testing that the Github Page is pointing at the Correct Location
+
+
 Welcome to the pre-PAGE 2022 workshop on *Forest plots in practical use*, given by Pharmetheus and tutored by Niclas Jonsson and Joakim Nyberg.
 
 The workshop will take place on Tuesday 28th of June, 2022 (09:00-17:00 CEST/GMT+2), in connection to PAGE, in Ljubljana, Slovenia. The registration page and workshop description can be found at the [PAGE website](https://www.page-meeting.org/default.asp?id=47&keuze=meeting&mid=23).
