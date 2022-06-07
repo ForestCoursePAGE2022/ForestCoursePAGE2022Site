@@ -2,8 +2,6 @@
 
 ## Welcome!
 
-Testing that the Github Page is pointing at the Correct Location
-
 
 Welcome to the pre-PAGE 2022 workshop on *Forest plots in practical use*, given by Pharmetheus and tutored by Niclas Jonsson and Joakim Nyberg.
 
@@ -22,24 +20,29 @@ A detailed course schedule can be found **here**.
 
 ## Requirements
 
-The participants are expected to bring their own laptops with R and Rstudio installed. It is also preferable if the R-packages necessary for the hands-on exercises are installed before the workshop starts. There will be Pharmetheus representatives available between 08:00 and 09:00 on the day of the workshop day to assist in the installation of the packages in case help is needed. However, the installation instructions are intended to be self-explanatory and easy to follow so hopefully no help will be needed.
+The participants are expected to bring their own laptops with R and Rstudio installed. It is also preferable if the R-packages necessary for the hands-on exercises are installed before the workshop starts. We have created installer scripts for different R-versions and operating systems (see below).
+
+There will be Pharmetheus representatives available between 08:00 and 09:00 on the day of the workshop day to assist in the installation of the packages in case help is needed. However, the installation instructions are intended to be self-explanatory and easy to follow so hopefully no help will be needed.
 
 ### R-version
 
-R version 3.5.3 and 4.2...
+The PMXForest package, the workshop examples and hands-on excercises have been tested on the lates version of MacOS and Windows using R versions 3.6, 4.1 and 4.2, and on Linux with R-version 4.2. Should you need to use another R-version, please let us know before the course so that we can make sure everything works as intended.
+
 
 ### Installation of R-packages
 
-To minimize the risk of R-package conflicts you will be able to download an installation package that contains all packages needed. With the help of the accompanying installation scipt you can install them in a way that should not create conflict with any existing R-package installations. Follow this link for further instructions and download links.
+To minimize the risk of R-package conflicts you will be able to download an installation package that contains all packages needed. With the help of the accompanying installation scipt you can install them in a way that should not create conflict with any existing R-package installations and that does not require administrator priviliges. Use the link in the side panel to download the installation script that fits your system 
+
+At the course there will one additional package to install - PMXForest, which is the package that contains all the Forest plot specific functionality and that will be used during the hands-on sessions.  
 
 
 ## Course material
 
 ### Handouts
 
-
-You can find the lecture handouts **here**.
+Lecture handouts will be made available **here**.
 
 ## Hands-on material
 
-The hands-on instructions are available **here** and the answers **here** (available after the hands-on session).
+The hands-on instructions will be made available **here** and the corresponding answers **here** (available after the hands-on session).
+
