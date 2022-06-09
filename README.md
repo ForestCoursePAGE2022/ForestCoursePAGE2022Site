@@ -15,12 +15,14 @@ The workshop aims at mixing lectures and hands-on sessions to provide an in-dept
 
 The workshop runs between 09:00 and 17:00, with breaks for lunch and coffee.
 
-A detailed course schedule can be found **here**.
+The detailed course schedule can be found **here**.
 
 
 ## Requirements
 
-The participants are expected to bring their own laptops with R and Rstudio installed. It is also preferable if the R-packages necessary for the hands-on exercises are installed before the workshop starts. We have created installer scripts for different R-versions and operating systems (see below).
+To be able to participate in the hands-on excercises you will have to bring yoor own laptop, which should have R and RStudio installed. The execises also require that a certain set of R-packages are installed. 
+
+It is also preferable if the R-packages necessary for the hands-on exercises are installed before the workshop starts. We have created installer scripts for different R-versions and operating systems (see below).
 
 There will be Pharmetheus representatives available between 08:00 and 09:00 on the day of the workshop day to assist in the installation of the packages in case help is needed. However, the installation instructions are intended to be self-explanatory and easy to follow so hopefully no help will be needed.
 
