@@ -15,7 +15,7 @@ The workshop aims at mixing lectures and hands-on sessions to provide an in-dept
 
 The workshop runs between 09:00 and 17:00, with breaks for lunch and coffee.
 
-The detailed course schedule can be found **here**.
+The detailed course schedule can be found [here](https://github.com/ForestCoursePAGE2022/ForestCoursePAGE2022/blob/main/PAGE%202022%20Forest%20plot%20workshop%20schedule.pdf).
 
 
 ## Requirements
