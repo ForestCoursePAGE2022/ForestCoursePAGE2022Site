@@ -20,31 +20,34 @@ The detailed course schedule can be found [here](https://github.com/ForestCourse
 
 ## Requirements
 
-To be able to participate in the hands-on excercises you will have to bring yoor own laptop, which should have R and RStudio installed. The execises also require that a certain set of R-packages are installed. 
-
-It is also preferable if the R-packages necessary for the hands-on exercises are installed before the workshop starts. We have created installer scripts for different R-versions and operating systems (see below).
-
-There will be Pharmetheus representatives available between 08:00 and 09:00 on the day of the workshop day to assist in the installation of the packages in case help is needed. However, the installation instructions are intended to be self-explanatory and easy to follow so hopefully no help will be needed.
+To be able to do the excercises in the hands-on excercises you will have to bring your own laptop, which should have R and RStudio installed. The execises also require that a certain set of R-packages are installed. 
 
 ### R-version
 
-The PMXForest package, the workshop examples and hands-on excercises have been tested on the lates version of MacOS and Windows using R versions 3.6, 4.1 and 4.2, and on Linux with R-version 4.2. Should you need to use another R-version, please let us know before the course so that we can make sure everything works as intended.
-
+The PMXForest package (see below), the workshop examples and hands-on excercises have been tested on the lates version of MacOS and Windows using R versions 3.6, 4.1 and 4.2, and on Linux with R-version 4.2. Should you need to use another R-version, please let us know before the course so that we can make sure everything works as intended.
 
 ### Installation of R-packages
 
-To minimize the risk of R-package conflicts you will be able to download an installation package that contains all packages needed. With the help of the accompanying installation scipt you can install them in a way that should not create conflict with any existing R-package installations and that does not require administrator priviliges. Use the link in the side panel to download the installation script that fits your system 
+It is  preferable if the R-packages necessary for the hands-on exercises are installed before the workshop starts. The exact list of packages needed is provided in the "Package Installation" link to the left. The link alos includes an installation script that you can use to install any missing packages in a way that should not affect any existing R-package installations and that does not require administrator priviliges.
 
-At the course there will one additional package to install - PMXForest, which is the package that contains all the Forest plot specific functionality and that will be used during the hands-on sessions.  
+There will be Pharmetheus representatives available between 08:00 and 09:00 on the day of the workshop day as well as during the workshop to assist in the installation of the packages in case help is needed. 
+
+### The PMXForest package
+
+The lectures and hands-on excercises use functionality from the PMXForest package. This packgage will be provided under the link "PMXForest package" to the left. I will have to be installed on your computer according to the instructions provided. Similar to the otehr package requirement this installation will not affect any existing R-package installations will not require administrator priviliges.
 
 
 ## Course material
 
 ### Handouts
 
-Lecture handouts will be made available **here**.
+Lecture handouts will be provided via the "Handouts" link to the left.
 
 ## Hands-on material
 
-The hands-on instructions will be made available **here** and the corresponding answers **here** (available after the hands-on session).
+The hands-on instructions will also be made available via the links to the left as well as the corresponding answers (available after the hands-on session).
 
+
+## Staying in contact
+
+The link "Discussion forum" to the left leads to a discussion forum which can be used to communicate with the course teachers, other participants, get help (after the workshop), report bugs and/or suggest addition to feaures in the PMXForest package.
