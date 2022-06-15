@@ -111,10 +111,14 @@ ul.downloads1 li {
 
 /*To be used in the case where there are just 2 buttons */
 ul.downloads2 li {
-   width:178px;
+   width:133.5px;
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
+}
+
+ul.downloads2 li:last-child {
+    border-right:none;
 }
 
 
