@@ -102,27 +102,19 @@ footer {
 
 /*Delete in case of failure*/
 /* To be used with teh case where there is just 1 button */
-ul.downloads1 {
-  list-style:none;
+ul.downloads1 li {
+    width:267px;
+  float:left;
+  border-right:1px solid #e0e0e0;
   height:40px;
-  padding:0;
-  /*background: #f4f4f4;*/
-  background:  #4d858e;
-  border-radius:5px;
-  border:1px solid #e0e0e0;
-  width:270px;
 }
 
 /*To be used in the case where there are just 2 buttons */
-ul.downloads2 {
-  list-style:none;
+ul.downloads2 li {
+   width:178px;
+  float:left;
+  border-right:1px solid #e0e0e0;
   height:40px;
-  padding:0;
-  /*background: #f4f4f4;*/
-  background:  #4d858e;
-  border-radius:5px;
-  border:1px solid #e0e0e0;
-  width:270px;
 }
 
 .downloads1 li {
@@ -130,7 +122,12 @@ ul.downloads2 {
   width:267px;
 }
 
+.downloads li:only-child a {
+    border-radius:5px 5px 5px 5px;
+}
+/*
 .downloads2 li + li{
   border-right:none;
   width:133.5px;
 }
+*/
