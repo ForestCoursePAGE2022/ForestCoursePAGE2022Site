@@ -25,11 +25,11 @@ To be able to do the exercises in the hands-on exercises you will have to bring 
 
 ### R-version
 
-The PMXForest package (see below), the workshop examples and hands-on exercises have been tested on the lates version of MacOS and Windows using R versions 3.6, 4.1 and 4.2, and on Linux with R-version 4.2. Should you need to use another R-version, please let us know before the course so that we can make sure everything works as intended.
+The the workshop examples, hands-on exercises and the PMXForest package (see below), have been tested on the lates version of MacOS and Windows using R versions 3.6, 4.1 and 4.2, and on Linux with R-version 4.2. Should you need to use another R-version, please let us know before the course so that we can make sure everything works as intended.
 
 ### Installation of R-packages
 
-It is  preferable if the R-packages necessary for the hands-on exercises are installed before the workshop starts. The exact list of packages needed is provided in the "Package Installation" link to the left. The link alos includes an installation script that you can use to install any missing packages in a way that should not affect any existing R-package installations and that does not require administrator privileges.
+It is  preferable if the R-packages necessary for the hands-on exercises are installed before the workshop starts. The exact list of packages needed is provided in the "Package Installation" link to the left. The link also includes an installation script that you can use to install any missing packages in a way that should not affect any existing R-package installations and that does not require administrator privileges.
 
 There will be Pharmetheus representatives available between 08:00 and 09:00 on the day of the workshop day as well as during the workshop to assist in the installation of the packages in case help is needed. 
 
@@ -40,13 +40,7 @@ The lectures and hands-on exercises use functionality from the PMXForest package
 
 ## Course material
 
-### Handouts
-
-Lecture handouts will be provided via the "Handouts" link to the left.
-
-## Hands-on material
-
-The hands-on instructions will also be made available via the links to the left as well as the corresponding answers (available after the hands-on session).
+Lecture handouts and hands-on instructions and answers will be made available via the Course material link to the left.
 
 
 ## Staying in contact
