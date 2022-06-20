@@ -47,6 +47,8 @@ Lecture handouts will be provided via the "Handouts" link to the left.
 
 The hands-on instructions will also be made available via the links to the left as well as the corresponding answers (available after the hands-on session).
 
+[testing](https://github.com/ForestCoursePAGE2022/ForestCoursePAGE2022/blob/main/test.md)
+
 
 ## Staying in contact
 
